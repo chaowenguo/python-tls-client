@@ -1,4 +1,4 @@
-<strong>这也是加粗文字</strong>
+<strong>I need 1000 stars, do not forget to star the repository</strong>
 
 bug fix of https://github.com/FlorianREGAZ/Python-Tls-Client
 
