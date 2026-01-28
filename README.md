@@ -1,3 +1,5 @@
+<strong>这也是加粗文字</strong>
+
 bug fix of https://github.com/FlorianREGAZ/Python-Tls-Client
 
 the original repo can not handle headers correctly, the header of second request copy the previous headers.
